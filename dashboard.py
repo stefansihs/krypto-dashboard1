@@ -16,7 +16,8 @@ portfolio_coins = [
     "astar", "api3", "flux", "portal", "skey-network", "near", "neurai",
     "singularitynet", "gala", "chirpley", "vulcan-forged", "kaspa", "storj",
     "yourai", "audius", "zetachain", "smooth-love-potion", "fantom", "duel-network",
-    "gamerx", "red-pulse-phoenix", "neat-protocol", "supra"
+    "gamerx", "red-pulse-phoenix", "neat-protocol", "supra", "slp", "phala",
+    "chrap", "phb", "duel", "gmrx"
 ]
 
 cg_url = "https://api.coingecko.com/api/v3/simple/price"
